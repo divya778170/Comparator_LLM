@@ -71,6 +71,17 @@
       "custom_fields": {
         "language": ["Korean", "Hindi"]
       }
+   },
+	   {
+      "input_text": "How is the climate in india?",
+      "tags": [],
+      "output_text_a": "Cold",
+      "output_text_b": "India has varied climates, with hot summers, cool winters, heavy monsoons, and mild post-monsoon weather.",
+      "score": 1.5,
+      "individual_rater_scores": [],
+      "custom_fields": {
+        "language": ["English", "English"]
+      }
     }
   ]
 }
